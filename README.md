@@ -1,4 +1,4 @@
-<h1>Run this project :</h1>
+<h1>To run this project :</h1>
 
 Clone this Git repository and run the below given command in terminal 
 ### `npm start`
